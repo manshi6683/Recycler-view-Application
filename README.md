@@ -39,18 +39,6 @@ This project is designed to practice:
 
 ---
 
-# 📸 App Preview
-
-<div align="center">
-
-## ✨ Modern Coffee UI
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="120"/>
-
-</div>
-
----
-
 # 🚀 Features
 
 ✅ RecyclerView Implementation  
