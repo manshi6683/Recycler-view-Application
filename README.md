@@ -167,7 +167,7 @@ Coffee(
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/MyRecyclerViewApp.git
+git clone https://github.com/manshi6683/Recycler-view-Application.git
 ```
 
 ---
