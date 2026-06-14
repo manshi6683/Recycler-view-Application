@@ -227,18 +227,6 @@ Shift + F10
 
 ---
 
-# 👩‍💻 Developer
-
-<div align="center">
-
-# Manshi
-
-### 🚀 Android Developer | Kotlin Learner | BTech Student
-
-</div>
-
----
-
 # ⭐ Support
 
 If you like this project, give it a ⭐ on GitHub!
